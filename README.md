@@ -22,7 +22,8 @@
 - Decision Tree
 - Random Forest <br/>
 &emsp; The performance metrics of the above three algorithms on the dataset is depicted below: <br/><br/>
-![image](https://github.com/TarunS-2003/titanic_analysis/assets/95118533/58d76a47-b351-493d-b1a2-27b057e4a3f4)
+![image](https://github.com/tarun-s12/titanic_analysis/assets/95118533/8ea2b3f5-317b-4030-a184-4e78204670fa)
+
 
 
 
